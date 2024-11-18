@@ -12,11 +12,11 @@ Soy desarrollador web y programador. Trabajo con tecnologías como HTML, CSS, Ja
 ## Conéctame
 
 - [GitHub](https://github.com/Devone-12)
-- [Twitter](https://twitter.com/tuusuario)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
+  
+- [Instagram](https://Instagram.com/kevin_bg0)
 
 ## Repositorios
 
-[Ver mis proyectos aquí](https://github.com/Devone-12?tab=repositories)
+[Ver mis proyectos aquí](https://devone-12.github.io/portafolio.github.io/)
 
 ![Mi Gif](https://media.giphy.com/media/abcdef123456/giphy.gif)
