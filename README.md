@@ -19,4 +19,3 @@ Soy desarrollador web y programador. Trabajo con tecnologías como HTML, CSS, Ja
 
 [Ver mis proyectos aquí](https://devone-12.github.io/portafolio.github.io/)
 
-![Mi Gif](https://media.giphy.com/media/abcdef123456/giphy.gif)
