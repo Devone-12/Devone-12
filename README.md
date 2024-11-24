@@ -31,8 +31,6 @@ Puedes ver todos mis proyectos y contribuciones en mis [repositorios](https://gi
 
 ### 📫 Cómo contactarme:
 Si quieres colaborar o simplemente decir hola, puedes encontrarme en:
-- **Instagram:** [Kevin_bg0](https://instagram.com/Kevin_bg0)
-- **WhatsApp:** [+52 998 172 2908](https://wa.me/529981722908)
 - **Correo Electrónico:** [DevOne.Web.Sites.Programming@gmail.com](mailto:DevOne.Web.Sites.Programming@gmail.com)
 
 ---
